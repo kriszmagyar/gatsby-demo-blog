@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0643e551-0fef-4f57-9d3c-29d576f3e06c/deploy-status)](https://app.netlify.com/sites/gatsby-personal-starter-blog/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f85337b6-0f0b-467f-90ef-f1629b8833fa/deploy-status)](https://app.netlify.com/sites/upbeat-torvalds-e79972/deploys)
 
 <img alt="screenshot" src="./screenshot.gif">
 
